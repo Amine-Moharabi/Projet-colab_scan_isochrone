@@ -5,4 +5,9 @@ API : https://api.openrouteservice.org/v2/isochrones/foot-walking
 Création de zone de chalendise 
 croisement des résultats entre zone de chalendise et répartition des catégories sociaux professionelles selon l'INSEE
 Production de rapport en forme de graphs et de tableaux de la répartition sociaux démographique 
-<img width="386" height="206" alt="image" src="https://github.com/user-attachments/assets/fe2f23d5-2dfe-47b4-8538-b73481b3b5b7" />
+#Isochrone_catégories_Socio-Professionelles
+<img width="769" height="422" alt="image" src="https://github.com/user-attachments/assets/c554faf9-b3c4-4f38-b7a2-4db5bfc6dc80" />
+
+#Recherche d’IRIS dans le Rhône correspondant à une répartition socio-professionnelle cible
+#Recherche d’IRIS idéaux selon une répartition CSP cible et des communes sélectionnées
+
